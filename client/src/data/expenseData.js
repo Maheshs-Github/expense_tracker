@@ -1,0 +1,58 @@
+export const DUMMY_EXPENSES = [
+  {
+    id: 1,
+    amount: 450,
+    description: "Lunch with friends",
+    category: "Food",
+    date: "2026-07-18",
+  },
+  {
+    id: 2,
+    amount: 1200,
+    description: "Petrol refill",
+    category: "Transport",
+    date: "2026-07-17",
+  },
+  {
+    id: 3,
+    amount: 2499,
+    description: "Bought running shoes",
+    category: "Shopping",
+    date: "2026-07-15",
+  },
+  {
+    id: 4,
+    amount: 850,
+    description: "Electricity bill",
+    category: "Bills",
+    date: "2026-07-12",
+  },
+  {
+    id: 5,
+    amount: 600,
+    description: "Movie night",
+    category: "Entertainment",
+    date: "2026-07-10",
+  },
+  {
+    id: 6,
+    amount: 950,
+    description: "Doctor consultation",
+    category: "Healthcare",
+    date: "2026-07-08",
+  },
+  {
+    id: 7,
+    amount: 1800,
+    description: "React course subscription",
+    category: "Education",
+    date: "2026-07-05",
+  },
+  {
+    id: 8,
+    amount: 300,
+    description: "Miscellaneous expense",
+    category: "Others",
+    date: "2026-07-03",
+  },
+];
