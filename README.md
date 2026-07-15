@@ -4,14 +4,6 @@ A modern and responsive **MERN Stack** application for managing daily expenses. 
 
 ---
 
-## 🎥 Demo
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/02690016-c1e5-4d99-b521-9f49c6396c74" alt="Expense Tracker Demo" width="900"/>
-</p>
-
----
-
 ## 🌐 Live Demo
 
 ### Frontend
